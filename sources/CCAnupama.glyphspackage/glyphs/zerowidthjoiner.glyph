@@ -1,0 +1,10 @@
+{
+glyphname = zerowidthjoiner;
+layers = (
+{
+layerId = AF1CFE5D-9CA1-426A-9F74-F43F8E985339;
+width = 0;
+}
+);
+unicode = 8205;
+}

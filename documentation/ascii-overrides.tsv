@@ -1,0 +1,17 @@
+# CC Anupama deviations from the FM Abhaya layout (encodings/fm-abhaya.tsv in mooniak-font-tools).
+# Each was checked by rendering the glyph next to its FM neighbours (2026-11-26). Same columns as the table.
+# Slots on U+E000.. keep a drawing the table cannot name; typable on the PUA until the designer decides (mnik check items decide-*).
+key	unicode	text	role	name	context	note
+`	U+0D9F	ඟ	alt	nnga-sinh.alt1		CC Anupama draws a full ඟ here (in FM it is the nasal prefix of `. `o `v), a second ඟ besides Õ. Visual, medium confidence
+C	U+0D9A U+0DCA U+200D U+0DC2	ක්‍ෂ	alt	kSsa-sinh.alt1		CC Anupama draws a whole ක්‍ෂ here, not FM touching ක්‍; so Cj CO are not composed. A second ක්‍ෂ that nothing reaches (Ë is the first). Visual
+F	U+E000		latin			Wide (1017) whole conjunct, not FM touching ත්‍: probably ත්‍ව or ත්‍ථ. Kept typable on PUA U+E000; designer to decide. Fj is not composed
+J	U+E001		latin			Wide (852) whole conjunct, not FM touching න්‍: probably න්‍ද (as in CC Sellipi). Kept typable on PUA U+E001; designer to decide. JO is not composed
+\	U+E002		latin			Drawn as a ක-like letter with a long tail, not FM ඳා (ss01). Perhaps ක්‍ර. PUA U+E002; designer to decide
+]	U+E003		latin			Drawn as a ක-like letter with a long tail, not a percent sign. Perhaps ක්‍ර. PUA U+E003; designer to decide
+_	U+E004		latin			Drawn as a ත-like letter with a long tail. Perhaps ත්‍ර. PUA U+E004; designer to decide
+¤	U+E005		latin	ornament		A zigzag line ornament (FM: en dash). PUA U+E005; designer to decide
+©	U+E006		latin			A letter-like drawing (FM has nothing here). PUA U+E006; designer to decide
+«	U+E007		latin			Drawn as a letter, not × . PUA U+E007; designer to decide
+¬	U+E008		latin			Drawn as a letter, not + . PUA U+E008; designer to decide
+¶	U+E009		latin			Drawn as a ග-like letter, not Roman v. PUA U+E009; designer to decide
+½	U+E00A		latin			Drawn as a large ළ-like letter, not a second visarga. PUA U+E00A; designer to decide

@@ -1,0 +1,40 @@
+{
+glyphname = "rU-sinh";
+layers = (
+{
+anchors = (
+{
+name = iisign;
+pos = (810,0);
+},
+{
+name = isign;
+pos = (810,0);
+},
+{
+name = usign;
+pos = (810,0);
+},
+{
+name = uusign;
+pos = (810,0);
+},
+{
+name = virama;
+pos = (810,0);
+}
+);
+layerId = AF1CFE5D-9CA1-426A-9F74-F43F8E985339;
+shapes = (
+{
+ref = "ra-sinh";
+},
+{
+pos = (501,0);
+ref = "aesign-sinh";
+}
+);
+width = 810;
+}
+);
+}

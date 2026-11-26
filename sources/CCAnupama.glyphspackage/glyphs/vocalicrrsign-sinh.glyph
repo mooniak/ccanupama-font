@@ -1,0 +1,43 @@
+{
+category = Mark;
+glyphname = "vocalicrrsign-sinh";
+layers = (
+{
+anchors = (
+{
+name = iisign;
+pos = (622,0);
+},
+{
+name = isign;
+pos = (622,0);
+},
+{
+name = usign;
+pos = (622,0);
+},
+{
+name = uusign;
+pos = (622,0);
+},
+{
+name = virama;
+pos = (622,0);
+}
+);
+layerId = AF1CFE5D-9CA1-426A-9F74-F43F8E985339;
+shapes = (
+{
+ref = "vocalicrsign-sinh";
+},
+{
+pos = (311,0);
+ref = "vocalicrsign-sinh";
+}
+);
+width = 622;
+}
+);
+subCategory = Spacing;
+unicode = 3570;
+}
