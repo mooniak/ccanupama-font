@@ -1,0 +1,82 @@
+[
+ {
+  "family": "CCAnupama",
+  "commit": "784e3e825ee23889c825f6077012a5969d71fe3d",
+  "commit_short": "784e3e8",
+  "version": "1.000",
+  "generated_at": "2026-11-26T15:17:46Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "mooniak",
+   "verdict": "warn",
+   "pass_rate": 82,
+   "counts": {
+    "WARN": 10,
+    "SKIP": 51,
+    "INFO": 9,
+    "PASS": 85
+   },
+   "total_checks": 155
+  },
+  "run_url": "https://github.com/mooniak/ccanupama-font/actions/runs/45847488230",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccanupama-font"
+ },
+ {
+  "family": "CCAnupama",
+  "commit": "209e3e4d9d3a00ed23e4240b4e342120fd070d94",
+  "commit_short": "209e3e4",
+  "version": "1.000",
+  "generated_at": "2026-11-26T07:20:29Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "mooniak",
+   "verdict": "warn",
+   "pass_rate": 82,
+   "counts": {
+    "WARN": 10,
+    "SKIP": 51,
+    "INFO": 9,
+    "PASS": 85
+   },
+   "total_checks": 155
+  },
+  "run_url": "https://github.com/mooniak/ccanupama-font/actions/runs/45774477604",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccanupama-font"
+ }
+]
