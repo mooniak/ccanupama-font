@@ -3,161 +3,14 @@
 .formatVersion = 3;
 customParameters = (
 {
-name = hheaAscender;
-value = 803;
-},
-{
-name = hheaDescender;
-value = -214;
-},
-{
-name = hheaLineGap;
-value = 90;
-},
-{
-name = panose;
-value = (
-2,
-0,
-5,
-3,
-0,
-0,
-0,
-0,
-0,
-0
-);
+name = vendorID;
+value = MNIK;
 },
 {
 name = fsType;
 value = (
 );
 },
-{
-name = typoAscender;
-value = 800;
-},
-{
-name = typoDescender;
-value = -200;
-},
-{
-name = typoLineGap;
-value = 90;
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1
-);
-},
-{
-name = strikeoutSize;
-value = 49;
-},
-{
-name = strikeoutPosition;
-value = 258;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYSize;
-value = 699;
-},
-{
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptYOffset;
-value = 140;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYSize;
-value = 699;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 479;
-},
-{
-name = blueScale;
-value = 0.00417;
-},
-{
-name = blueShift;
-value = 0;
-},
-{
-name = isFixedPitch;
-value = 0;
-},
-{
-name = versionString;
-value = "Version 1.000";
-},
-{
-name = vendorID;
-value = PfEd;
-},
-{
-name = postscriptFullName;
-value = CCAnupama;
-},
-{
-name = postscriptFontName;
-value = CCAnupama;
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapFamilyName;
-value = CCAnupama;
-},
-{
-name = codePageRanges;
-value = (
-1252
-);
-},
-{
-name = winAscent;
-value = 803;
-},
-{
-name = winDescent;
-value = 214;
-},
-{
-name = weightClass;
-value = 400;
-},
-{
-name = widthClass;
-value = 5;
-}
 );
 date = "2020-03-30 03:15:24 +0000";
 familyName = CCAnupama;
@@ -327,161 +180,46 @@ fontMaster = (
 {
 customParameters = (
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = hheaAscender;
-value = 803;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -214;
+value = -300;
 },
 {
 name = hheaLineGap;
-value = 90;
+value = 0;
 },
 {
-name = panose;
-value = (
-2,
-0,
-5,
-3,
-0,
-0,
-0,
-0,
-0,
-0
-);
+name = typoAscender;
+value = 900;
+},
+{
+name = typoDescender;
+value = -300;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 900;
+},
+{
+name = winDescent;
+value = 300;
 },
 {
 name = fsType;
 value = (
 );
 },
-{
-name = typoAscender;
-value = 800;
-},
-{
-name = typoDescender;
-value = -200;
-},
-{
-name = typoLineGap;
-value = 90;
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1
-);
-},
-{
-name = strikeoutSize;
-value = 49;
-},
-{
-name = strikeoutPosition;
-value = 258;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYSize;
-value = 699;
-},
-{
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptYOffset;
-value = 140;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYSize;
-value = 699;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 479;
-},
-{
-name = blueScale;
-value = 0.00417;
-},
-{
-name = blueShift;
-value = 0;
-},
-{
-name = isFixedPitch;
-value = 0;
-},
-{
-name = versionString;
-value = "Version 1.000";
-},
-{
-name = vendorID;
-value = PfEd;
-},
-{
-name = postscriptFullName;
-value = CCAnupama;
-},
-{
-name = postscriptFontName;
-value = CCAnupama;
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapFamilyName;
-value = CCAnupama;
-},
-{
-name = codePageRanges;
-value = (
-1252
-);
-},
-{
-name = winAscent;
-value = 803;
-},
-{
-name = winDescent;
-value = 214;
-},
-{
-name = weightClass;
-value = 400;
-},
-{
-name = widthClass;
-value = 5;
-}
 );
 id = "AF1CFE5D-9CA1-426A-9F74-F43F8E985339";
 metricValues = (
@@ -540,8 +278,39 @@ type = "italic angle";
 properties = (
 {
 key = copyrights;
-value = "Copyright (c) 2021, Damith Welikala";
+values = (
+{
+language = dflt;
+value = "Copyright 2021 The CCAnupama Project Authors (https://github.com/mooniak/ccanupama-font)";
 }
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Damith Welikala";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = mooniak;
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
+key = manufacturerURL;
+value = "https://mooniak.com/";
+},
 );
 stems = (
 );
