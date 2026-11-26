@@ -1,0 +1,410 @@
+{
+.appVersion = "895";
+.formatVersion = 3;
+classes = (
+{
+code = "space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde cent sterling currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot uni00AD plusminus uni00B2 uni00B3 acute paragraph onehalf threequarters questiondown Agrave Aacute Acircumflex Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis divide oslash ugrave uacute yacute thorn ydieresis";
+name = GDEF_Simple;
+}
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 803;
+},
+{
+name = hheaDescender;
+value = -214;
+},
+{
+name = hheaLineGap;
+value = 90;
+},
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = typoAscender;
+value = 800;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 90;
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1
+);
+},
+{
+name = strikeoutSize;
+value = 49;
+},
+{
+name = strikeoutPosition;
+value = 258;
+},
+{
+name = subscriptXSize;
+value = 650;
+},
+{
+name = subscriptYSize;
+value = 699;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = 140;
+},
+{
+name = superscriptXSize;
+value = 650;
+},
+{
+name = superscriptYSize;
+value = 699;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 479;
+},
+{
+name = blueScale;
+value = 0.00417;
+},
+{
+name = blueShift;
+value = 0;
+},
+{
+name = isFixedPitch;
+value = 0;
+},
+{
+name = versionString;
+value = "Version 1.000";
+},
+{
+name = vendorID;
+value = PfEd;
+},
+{
+name = postscriptFullName;
+value = CCAnupama;
+},
+{
+name = postscriptFontName;
+value = CCAnupama;
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+0,
+0
+);
+},
+{
+name = postscriptWeightName;
+value = Regular;
+},
+{
+name = styleMapFamilyName;
+value = CCAnupama;
+},
+{
+name = codePageRanges;
+value = (
+1252
+);
+},
+{
+name = winAscent;
+value = 803;
+},
+{
+name = winDescent;
+value = 214;
+},
+{
+name = weightClass;
+value = 400;
+},
+{
+name = widthClass;
+value = 5;
+}
+);
+date = "2020-03-30 03:15:24 +0000";
+familyName = CCAnupama;
+featurePrefixes = (
+{
+code = "#Mark attachment classes (defined in GDEF, used in lookupflags)
+";
+name = "<anonymous>";
+},
+{
+code = "table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+";
+name = "<anonymous>";
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = hheaAscender;
+value = 803;
+},
+{
+name = hheaDescender;
+value = -214;
+},
+{
+name = hheaLineGap;
+value = 90;
+},
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = typoAscender;
+value = 800;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 90;
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1
+);
+},
+{
+name = strikeoutSize;
+value = 49;
+},
+{
+name = strikeoutPosition;
+value = 258;
+},
+{
+name = subscriptXSize;
+value = 650;
+},
+{
+name = subscriptYSize;
+value = 699;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = 140;
+},
+{
+name = superscriptXSize;
+value = 650;
+},
+{
+name = superscriptYSize;
+value = 699;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 479;
+},
+{
+name = blueScale;
+value = 0.00417;
+},
+{
+name = blueShift;
+value = 0;
+},
+{
+name = isFixedPitch;
+value = 0;
+},
+{
+name = versionString;
+value = "Version 1.000";
+},
+{
+name = vendorID;
+value = PfEd;
+},
+{
+name = postscriptFullName;
+value = CCAnupama;
+},
+{
+name = postscriptFontName;
+value = CCAnupama;
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+0,
+0
+);
+},
+{
+name = postscriptWeightName;
+value = Regular;
+},
+{
+name = styleMapFamilyName;
+value = CCAnupama;
+},
+{
+name = codePageRanges;
+value = (
+1252
+);
+},
+{
+name = winAscent;
+value = 803;
+},
+{
+name = winDescent;
+value = 214;
+},
+{
+name = weightClass;
+value = 400;
+},
+{
+name = widthClass;
+value = 5;
+}
+);
+id = "AF1CFE5D-9CA1-426A-9F74-F43F8E985339";
+metricValues = (
+{
+over = 0;
+pos = 800;
+},
+{
+over = 0;
+pos = 599;
+},
+{
+over = 0;
+pos = 586;
+},
+{
+over = 0;
+},
+{
+over = 0;
+pos = -200;
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+axesValues = (
+);
+name = Regular;
+}
+);
+kerningLTR = {
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+value = "Copyright (c) 2021, Damith Welikala";
+}
+);
+stems = (
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

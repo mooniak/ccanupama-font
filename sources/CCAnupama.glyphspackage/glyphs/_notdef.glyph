@@ -1,0 +1,55 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "AF1CFE5D-9CA1-426A-9F74-F43F8E985339";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,533,l),
+(450,533,l),
+(450,0,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(400,50,l),
+(400,483,l),
+(100,483,l),
+(100,50,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 50;
+},
+{
+position = 483;
+width = 50;
+}
+);
+vhints = (
+{
+position = 50;
+width = 50;
+},
+{
+position = 400;
+width = 50;
+}
+);
+};
+};
+vertWidth = 0;
+width = 500;
+}
+);
+note = "";
+}
