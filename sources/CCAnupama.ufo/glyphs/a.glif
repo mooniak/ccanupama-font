@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="2">
+  <advance width="4"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="-105.285" y="644.107" type="curve" smooth="yes"/>
+      <point x="-81.8926" y="557.679"/>
+      <point x="-73.3213" y="469.286"/>
+      <point x="-81" y="380" type="curve" smooth="yes"/>
+      <point x="-86" y="321.786"/>
+      <point x="-177.25" y="321.429"/>
+      <point x="-172.25" y="380" type="curve" smooth="yes"/>
+      <point x="-165.285" y="461.607"/>
+      <point x="-171.893" y="540.715"/>
+      <point x="-193.321" y="619.822" type="curve" smooth="yes"/>
+      <point x="-208.679" y="676.607"/>
+      <point x="-120.643" y="700.715"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-193</integer>
+            <key>width</key>
+            <integer>88</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-172</integer>
+            <key>width</key>
+            <integer>91</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
